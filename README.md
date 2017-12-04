@@ -1,29 +1,29 @@
 # Receta rápida
 
-## El arte de documentar
+## Caixa Magica
 ## DOC.art
 
 ## Resumen
 
-Mediante el uso de tecnologías web y la reapropiación de herramientas propias de las comunidades de software libre, docART ayuda a visibilizar los proceso de creación colectiva y construcción de prototipos vinculados a éstos. Este “cuaderno de laboratorio“ está constituido por dos partes indisociables: las recetas libres y el mapa de proceso.
+### Previa
 
-Las recetas libres permiten que el conocimiento pueda ser replicado, dan cuenta de los resultados del proceso y garantizan el reconocimiento debido a quienes han contribuido a la producción del mismo. El mapa de proceso hace visibles los recovecos del proceso del proceso de aprendizaje e identifica los rastros/restos que materializan las dimensiones tacita, colaborativa, conflictiva y afectiva presentes en todos los aprendizajes.
+El proyecto Caixa Mágica surge en el laboratorio de innovación ciudadana LabicBr, que ocurrió en el 2015 en Rio de Janeiro y luego sigió transformando a lo largo de otros laboratorios e iniciativas. El proyecto Caixa Magica logró construir una importante comunidade con el apoyo de los labs Labic y Ciudades que Aprenden (México, 2016), y esa comunidad sigue trabajando de modo remoto en el desarrollo y pruebas del prototipo.
 
-Basado en estandards web y adaptado al modelo de gestión de versiones y colaboración de GIT docART permite dar cuenta de dos funciones exigibles a todo proceso de documentacion: documentar para compartir y documentar para evaluar.
+### El prototipo
+
+La idea inicial del prototipo era posibilitar una forma de interacción para participación ciudadanas de comunidades que ajenas, sea geograficamente o culturalmente, de las plataformas digitales de participación que proponian algunas iniciativas gubernamentales en Brasil....
+
 
 ## Motivaciones
 
-Documentar no es registrar hechos sino mostrar procesos. No es un oficio, sino una  actitud ante la vida: una mentalidad antes que una técnica. Los procesos de construcción colectiva y de prototipado colaborativo se invisibilizan o desaparecen tras la presencia del entregable porque esos procesos se escapan a las herramientas convencionales de documentación. El equipo de EduCaaS, en colaboración con Antonio Lafuente, estamos diseñando una herramienta digital que permita visibilizar estos procesos y además modelarlos de manera que se puedan replicar, modificar y evaluar. Esta herramienta es una pieza fundamental en los laboratorios ciudadanos, entendidos como dispositivos de escucha y espacios abiertos de creación colectiva fundamentales para la renovación democrática de nuestra sociedad.
+rellenar...
 
 ## Objetivos
 
-Prototipado de la solución tecnológica ya existente en los grupos de trabajo del taller, como herramienta de documentación del proceso.
-
-Desarrollo de interoperabilidad con el estándar de flujo de documentación GIT y compatibilidad de los documentos generados con la API de Github/Gitlab
-
-Integración de la herramienta de documentación de “recetas libres“ y el “mapa de proceso“
+rellenar...
 
 ## Recursos
+
 
 ## Procedimientos
 
@@ -31,43 +31,22 @@ Integración de la herramienta de documentación de “recetas libres“ y el �
 
 ## Necesidades
 
-Desarrolladores web con experiencia en el desarrollo Front End y/o con conocimientos avanzados de programación de API.
-
-Expertos en Git y librerías Javascript de edición colaborativa.
 
 ## Referencias
 
 
 ## Equipo
-### Promotores: 
-
-David A. Lareo, tecnólogo, dalareo@gmail.com, España
-
-Antonio Lafuente, investigador científico, alafuente@gmail.com, España
-
-Juan Freire, investigador científico, juan.freire@gmail.com, México / España
-
-### Colaboradores: 
-Anne Clinio - investigadora en Ciencia de la Información, anneclinio@gmail.com, Brasil
-
-Carla Tortul - artista visual y gestora cultural, tortulcarla@gmail.com, Argentina
-
-Henrique Parra - profesor universitário e investigador en Ciencias Sociales, henrique@pimentalab.net, Brasil
-
-Stephan Freudenberg - desarrolador web, stefan@agaric.com, Alemania
-
-Juan Arias - desarrolador front end, jdariasforero2008@gmail.com, Colombia
 
 Mariel Zasso - doctoranda en Estudios Humanísticos, mariel.zasso@gmail.com, México / Brasil
 
-Sebastián Gorosito - designer, sebastian@inahaus.com, Argentina
+Marco Knopacki 
 
 ## Contacto
-David A. Lareo
 
-dalareo@gmail.com
 
-www...
+magos@caixamagi.ca 
+
+http://caixamagi.ca/
 
 ## Licencia
 CC by-sa-nc
