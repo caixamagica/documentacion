@@ -1,7 +1,6 @@
 # Receta rápida
 
 ## Caixa Magica
-## DOC.art
 
 ## Resumen
 
